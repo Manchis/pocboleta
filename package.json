@@ -1,0 +1,15 @@
+{
+  "name": "boletatcp",
+  "version": "0.1.1",
+  "description": "PoC Para servicio TCP Server con backend httt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TCP",
+    "Boleta"
+  ],
+  "author": "JP",
+  "license": "ISC"
+}
